@@ -1,0 +1,51 @@
+@import url(reset.css);
+
+.main__logo {
+    height: 30px;
+    min-width: 1300px;
+    background-color:aqua;
+}
+.logo__inf
+{    
+    /* border: 1px solid; */
+    margin:auto;
+    height: 30px;
+    max-width: 1300px;      
+}
+
+.back__to__main
+{
+    /* border: 1px solid; */
+    float: left; 
+    height: 100%; 
+    display: flex;  
+}
+
+.back__to__main a
+{
+    margin: auto;  
+}
+
+.reg__and__authorization
+{     
+    /* border: 1px solid; */             
+    float:right;
+    height: 100%; 
+    display: flex;    
+}
+
+.authorization
+{
+    margin: auto;
+    margin-right: 5px;
+}
+
+.reg
+{
+    margin: auto;     
+    margin-left: 5px;
+}
+
+p {
+    font-size: 125px;
+}
